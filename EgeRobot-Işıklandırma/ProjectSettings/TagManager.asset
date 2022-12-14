@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - post processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: roof
+    uniqueID: 4279013489
+    locked: 0
+  - name: beams
+    uniqueID: 3952278003
+    locked: 0
+  - name: column
+    uniqueID: 180986675
+    locked: 0
+  - name: concrete
+    uniqueID: 4058668575
+    locked: 0
+  - name: corridor
+    uniqueID: 3020772725
+    locked: 0
+  - name: cover
+    uniqueID: 678973605
+    locked: 0
+  - name: desk
+    uniqueID: 82869135
+    locked: 0
+  - name: door
+    uniqueID: 3407066821
+    locked: 0
+  - name: floor
+    uniqueID: 2333308345
+    locked: 0
+  - name: gate
+    uniqueID: 1173938003
+    locked: 0
+  - name: lamp
+    uniqueID: 2163144265
+    locked: 0
+  - name: palette
+    uniqueID: 3175225061
+    locked: 0
+  - name: pipe
+    uniqueID: 1416435431
+    locked: 0
+  - name: frame
+    uniqueID: 623379519
+    locked: 0
+  - name: wall
+    uniqueID: 1674429775
+    locked: 0
+  - name: wardrobe
+    uniqueID: 2865836735
+    locked: 0
+  - name: support
+    uniqueID: 3666421657
+    locked: 0
